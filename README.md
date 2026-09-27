@@ -1,0 +1,1 @@
+A local-first focus companion that lets users quickly externalize distracting thoughts and return to their task.
